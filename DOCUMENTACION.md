@@ -142,3 +142,25 @@ El usuario necesita saber si la compra se ha realizado correctamente.
 **Decisión:** he creado una pantalla de Confirmación donde aparece el mensaje de pedido realizado, el número de pedido y el importe total.
 
 ---
+
+# 3. Diseño de la interfaz
+
+## 3.1 Mapa de navegación
+
+El flujo principal de la aplicación es el siguiente:
+
+```mermaid
+flowchart TD
+    A[Inicio] --> B[Catálogo]
+    B --> C[Detalle de producto]
+    C --> D[Carrito]
+    D --> E[Checkout]
+    E --> F[Confirmación]
+    F --> A
+
+    A --> G[Perfil]
+    B --> G
+    C --> G
+    D --> G
+    E --> G
+    F --> G
