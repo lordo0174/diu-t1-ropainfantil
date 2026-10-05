@@ -207,3 +207,13 @@ La mejora se mostrará mediante dos capturas:
 Las pruebas con los dos compañeros permiten comprobar si la aplicación resulta sencilla de utilizar y si las principales acciones se entienden correctamente.
 
 De momento, ningún problema ha resultado, por lo que solo se realizarán mejoras en la interfaz visual y no en la lógica.
+
+---
+
+## 5. Referencias bibliográficas
+
+https://ixdf.org/literature/article/it-ain-t-what-you-do-it-s-the-way-that-you-do-it-mobile-app-usability-best-practices
+
+https://help.figma.com/hc/en-us/articles/360040314193-Guide-to-prototyping-in-Figma
+
+https://www.fullstory.com/blog/ui-design/
