@@ -163,4 +163,47 @@ flowchart TD
     C --> G
     D --> G
     E --> G
-    F --> G
+    F --> 
+
+---
+
+# 4. Validación y pruebas
+
+Para comprobar si el prototipo es fácil de utilizar, se realizaron pruebas con dos compañeros de clase.
+
+## 4.1 Tareas realizadas
+
+Cada compañero realizó estas tres tareas:
+
+1. Buscar una prenda en el catálogo.
+2. Seleccionar una talla y añadir la prenda al carrito.
+3. Completar el proceso hasta llegar a la pantalla de confirmación.
+
+Durante las pruebas se observó si podían realizar las tareas sin ayuda y si encontraban algún problema.
+
+## 4.2 Resultados
+
+| Participante | Buscar producto | Añadir al carrito | Completar compra | Observaciones |
+|---|---|---|---|---|
+| Compañero 1 | Correcto | Correcto | Correcto | Ningún problema |
+| Compañero 2 | Correcto | Correcto | Correcto | Ningún problema |
+
+Después de las pruebas se preguntó a los dos compañeros qué parte les había resultado más difícil y qué cambiarían del diseño.
+
+## 4.3 Mejoras
+
+A partir de las pruebas no se identificaron problemas, por lo que no es necesaria una mejora en el funcionamiento, sino algo más visual.
+
+- **Problema encontrado:** Colores de la interfaz.
+- **Mejora realizada:** Cambio a colores pastel.
+
+La mejora se mostrará mediante dos capturas:
+
+- `capturas/iteracion/antes.png`
+- `capturas/iteracion/despues.png`
+
+## 4.4 Conclusión
+
+Las pruebas con los dos compañeros permiten comprobar si la aplicación resulta sencilla de utilizar y si las principales acciones se entienden correctamente.
+
+De momento, ningún problema ha resultado, por lo que solo se realizarán mejoras en la interfaz visual y no en la lógica.
